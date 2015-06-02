@@ -4,5 +4,6 @@ $bnum=20;
 $sum=$a+$b;
 echo $sum;
 $mul = $sum * $sum;
-echo $mul;
+$mult = $mul*$mul;
+echo $mult; 
 ?>
