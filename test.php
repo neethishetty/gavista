@@ -8,4 +8,5 @@ echo $dif;
 echo $sum;
 echo $string;
 echo "Change in another branch";
+echo "Change in another branch 2";
 ?>
