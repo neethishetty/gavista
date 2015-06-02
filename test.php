@@ -7,4 +7,5 @@ $dif = $a - $b;
 echo $dif;
 echo $sum;
 echo $string;
+echo "hello";
 ?>
