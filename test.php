@@ -9,4 +9,6 @@ echo $sum;
 echo $string;
 echo "Change in another branch";
 echo "Change in another branch 2";
+echo "Change in another branch 2,again";
+echo "Change in another branch 2,again";
 ?>
